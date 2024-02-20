@@ -1,6 +1,6 @@
 ## A website for my girlfriend to memorize our  love.
 
-  demo： https://pp9555.github.io/surprisegirlfriend.github.io/
+  
    
 * css：      
 * js/date.js：  
